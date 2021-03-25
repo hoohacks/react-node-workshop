@@ -49,6 +49,11 @@ In the ```\client-side``` folder, install ```axios``` using the command:
         npm install axios
 ```
 
+To run, use the command:
+```bash
+        npm run start
+```
+
 
 ## `npm run start`
 
