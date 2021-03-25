@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Download IDE 
     1. Recommended: [Visual Studio Code](https://visualstudio.microsoft.com/)
 
-2. Download [npm] (https://nodejs.org/en/download/)
+2. Download [npm](https://nodejs.org/en/download/)
     1. There is no need to download Node.js seperately - it is included in this step.
 
 3. After downloading repository, open terminal in the ```search_app\client-side``` folder.
